@@ -1,147 +1,138 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-dark.svg"
-        height="auto">
+  <img src="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%">
 </p>
 
-  <!-- Animated Typing Text -->
+<p align="center">
   <a href="https://github.com/GhuniNew1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=550&lines=Crafting+Scalable+Modern+Web+Applications;Full-Stack+JavaScript+%26+TypeScript;Exploring+Serverless%2C+Edge+%26+Cloudflare+Workers;Homelab+%26+Self-Hosting+Hobbyist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=650&lines=Web+Developer+%26+IT+Technician;Building+Practical+Web+Applications;React%2C+Vite+%26+Tailwind+CSS;Cloudflare%2C+Docker+%26+Self-Hosting" alt="Typing SVG">
   </a>
+</p>
 
-<br><br>
-
-  <!-- Badges & Links -->
-  <p align="center">
-    <a href="https://github.com/GhuniNew1">
-      <img src="https://img.shields.io/badge/GitHub-@GhuniNew1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-    </a>
-    <a href="mailto:aakanun43@gmail.com">
-      <img src="https://img.shields.io/badge/Email-aakanun43%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-    </a>
-    <a href="https://sky.bigbrain-studio.com" target="_blank">
-      <img src="https://img.shields.io/badge/Website-sky.bigbrain--studio.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website Badge" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=GhuniNew1&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  </p>
+<p align="center">
+  <a href="https://github.com/GhuniNew1">
+    <img src="https://img.shields.io/badge/GitHub-@GhuniNew1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+  <a href="mailto:aakanun43@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aakanun43%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
+  <a href="https://ghuninew1.github.io/">
+    <img src="https://img.shields.io/badge/Website-ghuninew1.github.io-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website Badge">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=GhuniNew1&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
+</p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```yaml
 name: GhuniNew (GNEW)
-role: Full-Stack Developer & Homelab Enthusiast
+role: Web Developer & IT Technician
 interests:
-  [Modern Web Apps, Cloudflare Workers, Edge Computing, DevOps, Self-Hosting]
-current_focus: Building scalable applications with React, Next.js, and TypeScript
-quote: "Turning ideas into robust, elegant code."
+  - Modern web applications
+  - Cloudflare Pages Functions and D1
+  - IT support and network monitoring
+  - Docker, QNAP, and self-hosting
+current_focus: Building practical, maintainable web applications and IT tools
+quote: "Turning ideas into practical solutions."
 ```
 
-- 🔭 **Currently Building:** High-performance web applications and serverless microservices.
-- ⚡ **Core Strengths:** TypeScript, JavaScript, React / Next.js ecosystem, Node.js, Tailwind CSS.
-- ☁️ **Cloud & Edge:** Designing low-latency backends using **Cloudflare Workers** & **Cloudflare D1**.
-- 🐳 **DevOps & Infrastructure:** Docker containerization, Linux environments, and QNAP NAS self-hosting.
-- 💬 **Ask Me About:** Web architecture, API design, frontend optimization, or running a homelab!
-- 📫 **Get in Touch:** Shoot me an email at [aakanun43@gmail.com](mailto:aakanun43@gmail.com).
+- 🔭 **Currently Building:** Web applications and internal IT tools, including IssueDesk.
+- ⚛️ **Frontend:** React, Vite, JavaScript, and Tailwind CSS v4.
+- ☁️ **Cloud & APIs:** Cloudflare Pages Functions, D1, and REST API integrations.
+- 🖥️ **IT & Infrastructure:** IT support, network monitoring, QNAP NAS, and Docker.
+- 🏡 **Homelab:** Self-hosted services with Garage object storage and Cloudflare Tunnel.
+- 📫 **Contact:** [aakanun43@gmail.com](mailto:aakanun43@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,nodejs,express,cloudflare,postgres,sqlite,redis,docker,linux,git,github,nginx&perline=9" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,cloudflare,sqlite,docker,linux,git,github&perline=6" alt="Tech Stack Icons">
   </a>
 </p>
 
 <details>
-<summary><b>🔍 View detailed technology breakdown</b></summary>
-<br>
-
-| Domain                 | Technologies & Tools                                                |
-| :--------------------- | :------------------------------------------------------------------ |
-| **Languages**          | TypeScript, JavaScript (ES6+), HTML5, CSS3, SQL, Bash               |
-| **Frontend**           | React, Next.js, Tailwind CSS, Vite, SSR / SSG                       |
-| **Backend & Edge**     | Node.js, Express, REST APIs, Cloudflare Workers, Hono / Serverless  |
-| **Database & Storage** | PostgreSQL, SQLite, Cloudflare D1, Redis                            |
-| **DevOps & Tools**     | Docker, Docker Compose, Linux, Git, GitHub Actions, Nginx, QNAP QTS |
-
-</details>
-
----
-
-### 📊 GitHub Analytics & Streak
-
-<div align="center">
-
-  <a href="https://github.com/GhuniNew1">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=GhuniNew1&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdae&icon_color=00d2ff&text_color=9ece6a" alt="GhuniNew's GitHub Stats" />
-  </a>
-  <a href="https://github.com/GhuniNew1">
-    <img src="https://streak-stats.demolab.com/?user=GhuniNew1&theme=tokyonight&hide_border=true" alt="GhuniNew's Streak Stats" />
-  </a>
-
-<br><br>
-
-  <a href="https://github.com/GhuniNew1">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GhuniNew1&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdae" alt="Top Languages" />
-  </a>
-
-</div>
-
----
-
-### 🚀 Featured Repositories
-
-<div align="center">
-
-  <a href="https://github.com/GhuniNew1/fullstack-ts">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=GhuniNew1&repo=fullstack-ts&theme=tokyonight&hide_border=true" alt="fullstack-ts" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/GhuniNew1/workers-d1-api">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=GhuniNew1&repo=workers-d1-api&theme=tokyonight&hide_border=true" alt="workers-d1-api" />
-  </a>
-
+  <summary><strong>🔍 View detailed technology breakdown</strong></summary>
   <br>
 
-  <a href="https://github.com/GhuniNew1/react-ssr">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=GhuniNew1&repo=react-ssr&theme=tokyonight&hide_border=true" alt="react-ssr" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/GhuniNew1/web-bbs-twcss">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=GhuniNew1&repo=web-bbs-twcss&theme=tokyonight&hide_border=true" alt="web-bbs-twcss" />
-  </a>
-
-</div>
-
----
-
-### 🏡 Homelab & Container Station
-
-<details>
-<summary><b>📦 QNAP Container Station Template & Pi-hole Config</b></summary>
-<br>
-
-This repository also serves as the host for custom QNAP Container Station templates:
-
-- **[`compose.yaml`](./compose.yaml)**: Pre-configured Docker Compose service for Pi-hole DNS sinkhole with QNAP `qnet` network driver and static IP allocation.
-- **[`templates.json`](./templates.json)**: Custom application template catalogue compatible with QNAP Container Station 3.x.
-
-```bash
-# Add this template URL directly into QNAP Container Station:
-https://raw.githubusercontent.com/GhuniNew1/GhuniNew1/main/templates.json
-```
+  | Domain | Technologies & Tools |
+  | :--- | :--- |
+  | **Languages** | JavaScript, HTML5, CSS3, SQL |
+  | **Frontend** | React, Vite, Tailwind CSS v4 |
+  | **Backend & Cloud** | Cloudflare Pages Functions, Cloudflare D1, REST APIs |
+  | **Database & Storage** | SQLite, Garage object storage |
+  | **DevOps & Systems** | Docker, Docker Compose, Linux, QNAP NAS |
+  | **Networking** | MikroTik RouterOS, API-SSL monitoring, network troubleshooting |
+  | **Workflow** | pnpm, Git, GitHub |
 
 </details>
 
 ---
 
-<div align="center">
+## 🚀 Featured Projects
 
-  <!-- Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,19,25,26&height=100&section=footer" width="100%" alt="Footer Banner" />
+<p align="center">
+  <a href="https://github.com/GhuniNew1/issuedesk">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=GhuniNew1&repo=issuedesk&theme=tokyonight&hide_border=true" alt="IssueDesk Repository">
+  </a>
+  <a href="https://github.com/GhuniNew1/React-Image-Converter">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=GhuniNew1&repo=React-Image-Converter&theme=tokyonight&hide_border=true" alt="React Image Converter Repository">
+  </a>
+</p>
 
-<sub>Crafted with 💙 by <b>GhuniNew</b> • Powered by Open Source</sub>
+### IssueDesk
+An IT support and service-management application designed around practical internal workflows.
 
-</div>
+- Issue reporting and ticket tracking.
+- Attendance workflows for check-in, check-out, and history.
+- Network monitoring UI and APIs integrating with infrastructure data from a QNAP-hosted agent.
+- Built with React, Vite, Tailwind CSS v4, Cloudflare Pages Functions, and D1.
+
+### React Image Converter
+A browser-based image conversion tool focused on client-side processing.
+
+- Batch conversion with drag-and-drop support.
+- Image formats include WebP, AVIF, JPG, and PNG.
+- Resize, quality, and aspect-ratio controls.
+
+[View React Image Converter on GitHub](https://github.com/GhuniNew1/React-Image-Converter)
+
+---
+
+## 📊 GitHub Analytics & Streak
+
+<p align="center">
+  <a href="https://github.com/GhuniNew1">
+    <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=GhuniNew1&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdae&icon_color=00d2ff&text_color=9ece6a" alt="GhuniNew's GitHub Stats">
+  </a>
+  <a href="https://github.com/GhuniNew1">
+    <img height="165" src="https://streak-stats.demolab.com/?user=GhuniNew1&theme=tokyonight&hide_border=true" alt="GhuniNew's Streak Stats">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/GhuniNew1">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GhuniNew1&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdae" alt="Top Languages">
+  </a>
+</p>
+
+---
+
+## 🏡 Homelab & Self-Hosting
+
+Working with self-hosted services and infrastructure, including:
+
+- QNAP NAS and Docker Compose.
+- Garage object storage and a custom storage API.
+- Cloudflare Tunnel for external access.
+- MikroTik RouterOS monitoring through API-SSL.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,19,25,26&height=100&section=footer" width="100%" alt="Footer Banner">
+  <sub>Crafted by <strong>GhuniNew</strong> · Powered by open source</sub>
+</p>

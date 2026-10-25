@@ -17,7 +17,7 @@
         {
           "name": "TZ",
           "label": "Time zone",
-          "default": "Asia/Taipei"
+          "default": "Asia/Bangkok"
         },
         {
           "name": "WEB_PASSWORD",
